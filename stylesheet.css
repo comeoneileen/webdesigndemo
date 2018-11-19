@@ -1,0 +1,16 @@
+		.column {
+			width:33.33%;
+			float:left;
+			padding:5px;
+			box-sizing:border-box;
+		}
+		h4 { 
+			color:navy;
+		}
+		body {
+			background-color:lightcyan;
+			font-family:sans-serif;
+		}
+		header {
+			color:darkcyan;
+		}
