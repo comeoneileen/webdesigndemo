@@ -4,6 +4,12 @@
 			padding:5px;
 			box-sizing:border-box;
 		}
+		.column2 {
+			width:50%;
+			float:left;
+			padding:5px;
+			box-sizing:border-box;
+		}
 		h4 { 
 			color:navy;
 		}
@@ -14,3 +20,9 @@
 		header {
 			color:darkcyan;
 		}
+		div {
+			background-color:white;
+		}
+		
+		
+		
